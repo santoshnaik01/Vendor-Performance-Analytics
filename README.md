@@ -22,6 +22,20 @@ The project uses Python, SQL, SQLite, and Power BI to transform raw business dat
 
 ---
 
+## 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides a comprehensive view of vendor performance, sales, purchasing, profitability, inventory turnover, and brand performance.
+
+![Vendor Performance Dashboard](vendor_performance_dashboard.png)
+
+### Key Dashboard Metrics
+
+- **Total Sales:** $441.41M
+- **Total Purchase:** $307.34M
+- **Gross Profit:** $134.07M
+- **Profit Margin:** 38.72%
+- **Unsold Capital:** $2.71M
+
 ## 🛠️ Tools & Technologies
 
 - **Python**
