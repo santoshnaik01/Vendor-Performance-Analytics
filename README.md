@@ -26,7 +26,7 @@ The project uses Python, SQL, SQLite, and Power BI to transform raw business dat
 
 The interactive Power BI dashboard provides a comprehensive view of vendor performance, sales, purchasing, profitability, inventory turnover, and brand performance.
 
-![Vendor Performance Dashboard](vendor_performance_dashboard.png)
+![Vendor Performance Dashboard](./images/Screenshot_2026-09-18_165649.png)
 
 ### Key Dashboard Metrics
 
